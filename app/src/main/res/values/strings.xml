@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="message">Message:</string>
+    <string name="sen_a_copy_yourself">Send a copy to yourself</string>
+    <string name="suscribe_to_our_newsletter">Suscribe to our newsletter</string>
+    <string name="required_fields">(*Required Fields.)</string>
+    <string name="send">Send</string>
+    <string name="phone">Phone:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="contact_us">Contact us</string>
+</resources>
